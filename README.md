@@ -1,4 +1,4 @@
-# :art: OpenGL Examples
+# :rocket: OpenGL Examples
 
 ## :book: Proje Hakkında
 
